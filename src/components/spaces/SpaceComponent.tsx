@@ -6,7 +6,7 @@ interface SpaceComponentProps {
     name: string
     location: string
     photoUrl?: string
-    reverseSpace: (spaceId: string) => void
+    reserveSpace: (spaceId: string) => void
 }
 
 export class SpaceComponent extends Component <SpaceComponentProps> {
