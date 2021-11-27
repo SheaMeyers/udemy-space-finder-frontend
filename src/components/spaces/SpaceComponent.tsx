@@ -1,5 +1,5 @@
 import { Component } from "react";
-import genericImage from "../../assets/generic-image.jpg";
+import genericImage from '../../assets/generic-image.jpg';
 import './SpaceComponent.css';
 
 interface SpaceComponentProps {
